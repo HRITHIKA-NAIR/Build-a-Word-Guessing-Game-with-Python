@@ -15,11 +15,9 @@ When you start the game, you’ll be prompted to choose a category from the list
 - Books
 - Movies
 
-- Once you select a category, a random word from that category will be chosen.
-- You’ll see underscores (_) representing each letter of the word.
-- Guess one letter at a time:
-- ✅ Correct guesses reveal the letter’s position(s) in the word.
-- ❌ Wrong guesses decrease your remaining attempts and display part of the Hangman.
+Once you select a category, a random word from that category will be chosen. You’ll see underscores (_) representing each letter of the word. Guess one letter at a time:
+  - ✅ Correct guesses reveal the letter’s position(s) in the word.
+  - ❌ Wrong guesses decrease your remaining attempts and display part of the Hangman.
 
 You have 6 attempts before the full Hangman is drawn. Guess the word before you run out of tries to win! You can type esc anytime to exit the game.
 
